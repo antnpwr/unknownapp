@@ -7,7 +7,7 @@ This is an unknown application written in Java
 
 ### Flowchart of the main workflow
 Main Menu Flow
-```
+```mermaid
 flowchart TD
     A[Start] --> B{Login Option}
     B -->|Student| C[Student Menu]
@@ -19,7 +19,7 @@ flowchart TD
 ```
 
 Student Menu Flow
-```
+```mermaid
 flowchart TD
     A[Student Menu] --> B{Choose Option}
 
@@ -42,7 +42,7 @@ flowchart TD
 ```
 
 Admin Menu Flow
-```
+```mermaid
 flowchart TD
     A[Admin Menu] --> B{Choose Option}
 
@@ -67,6 +67,6 @@ flowchart TD
     J --> A
     K --> A
     
-    I --> End[End]
+    L --> End[End]
 ```
 ### Prompts
