@@ -11,7 +11,8 @@
     },
     "prerequisites": [],
     "enrolledStudents": [
-      "6888123"
+      "STU001",
+      "6688094"
     ]
   },
   {
@@ -30,70 +31,14 @@
     "enrolledStudents": []
   },
   {
-    "code": "CS301",
-    "title": "Algorithms",
-    "credits": 3,
-    "capacity": 25,
-    "timeSlot": {
-      "days": "TTh",
-      "startTime": "09:00",
-      "endTime": "10:30"
-    },
-    "prerequisites": [
-      "CS201"
-    ],
-    "enrolledStudents": []
-  },
-  {
-    "code": "CS401",
-    "title": "Operating Systems",
-    "credits": 3,
-    "capacity": 20,
-    "timeSlot": {
-      "days": "TTh",
-      "startTime": "10:30",
-      "endTime": "12:00"
-    },
-    "prerequisites": [
-      "CS301"
-    ],
-    "enrolledStudents": []
-  },
-  {
     "code": "MATH101",
     "title": "Calculus I",
     "credits": 4,
     "capacity": 35,
     "timeSlot": {
       "days": "MWF",
-      "startTime": "08:00",
-      "endTime": "09:00"
-    },
-    "prerequisites": [],
-    "enrolledStudents": []
-  },
-  {
-    "code": "MATH201",
-    "title": "Calculus II",
-    "credits": 4,
-    "capacity": 30,
-    "timeSlot": {
-      "days": "MWF",
-      "startTime": "11:00",
-      "endTime": "12:00"
-    },
-    "prerequisites": [],
-    "enrolledStudents": []
-  },
-  {
-    "code": "ENG101",
-    "title": "Technical Writing",
-    "credits": 2,
-    "capacity": 40,
-    "timeSlot": {
-      "days": "TTh",
-      "startTime": "13:00",
-      "endTime": "14:00"
+      "startTime": "09:00",
+      "endTime": "10:00"
     },
     "prerequisites": [],
     "enrolledStudents": []
@@ -102,20 +47,7 @@
     "code": "NET101",
     "title": "Computer Networks",
     "credits": 3,
-    "capacity": 25,
-    "timeSlot": {
-      "days": "MWF",
-      "startTime": "14:00",
-      "endTime": "15:00"
-    },
-    "prerequisites": [],
-    "enrolledStudents": []
-  },
-  {
-    "code": "DB101",
-    "title": "Database Systems",
-    "credits": 3,
-    "capacity": 25,
+    "capacity": 2,
     "timeSlot": {
       "days": "TTh",
       "startTime": "14:00",
@@ -125,14 +57,14 @@
     "enrolledStudents": []
   },
   {
-    "code": "SE101",
-    "title": "Software Engineering",
+    "code": "CS104",
+    "title": "Sample Course",
     "credits": 3,
-    "capacity": 30,
+    "capacity": 50,
     "timeSlot": {
-      "days": "MWF",
-      "startTime": "15:00",
-      "endTime": "16:00"
+      "days": "Monday",
+      "startTime": "09:00",
+      "endTime": "12:00"
     },
     "prerequisites": [],
     "enrolledStudents": []
