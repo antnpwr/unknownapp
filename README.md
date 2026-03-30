@@ -70,6 +70,4 @@ flowchart TD
     L --> End[End]
 ```
 ### Prompts
-```
 Using the current "View all students" feature for admin, create an equivalent Python version of the program. Put the Python program in a new folder called “python.”
-```
